@@ -1,3 +1,6 @@
 [submodule "STM32_DigitalInputs_With_Debouncing"]
 	path = STM32_DigitalInputs_With_Debouncing
 	url = git@github.com:deepanshutanwar/STM32_DigitalInputs_With_Debouncing.git
+[submodule "STM32_4x4_Keypad"]
+	path = STM32_4x4_Keypad
+	url = git@github.com:deepanshutanwar/STM32_4x4_Keypad.git
