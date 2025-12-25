@@ -7,3 +7,6 @@
 [submodule "STM32-PinRead"]
 	path = STM32-PinRead
 	url = git@github.com:deepanshutanwar/STM32-PinRead.git
+[submodule "STM32-BoardGreenLedBlink"]
+	path = STM32-BoardGreenLedBlink
+	url = git@github.com:deepanshutanwar/STM32-BoardGreenLedBlink.git
