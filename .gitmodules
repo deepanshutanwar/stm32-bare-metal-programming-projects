@@ -1,0 +1,3 @@
+[submodule "STM32_DigitalInputs_With_Debouncing"]
+	path = STM32_DigitalInputs_With_Debouncing
+	url = git@github.com:deepanshutanwar/STM32_DigitalInputs_With_Debouncing.git
